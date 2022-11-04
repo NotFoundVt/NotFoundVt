@@ -19,7 +19,6 @@
             <img aling="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> &nbsp&nbsp&nbsp
             <img aling="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> &nbsp&nbsp&nbsp
             <img aling="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" /> &nbsp&nbsp&nbsp
-            <img aling="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" /> &nbsp&nbsp&nbsp
             <img aling="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"  /> &nbsp&nbsp&nbsp
             <img aling="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /> &nbsp&nbsp&nbsp
             <img aling="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" /> &nbsp&nbsp&nbsp
